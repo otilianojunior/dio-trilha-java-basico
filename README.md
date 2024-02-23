@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Estudo de Java, possuindo desafios proposto pela trilha básica de Java da plataforma DIO.
+Estudo de Java, possuindo desafios propostos pela trilha básica de Java da plataforma DIO.
