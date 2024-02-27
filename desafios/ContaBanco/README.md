@@ -35,5 +35,6 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
+* Para executar basta 'rodar' run a classe: [ContaTerminal.java](src%2FContaTerminal.java).
 
 

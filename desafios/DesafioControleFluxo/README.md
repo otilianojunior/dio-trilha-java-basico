@@ -47,4 +47,6 @@ public class Contador {
 }
 ```
 
+* Para executar basta 'rodar' run a classe: [Contador.java](src%2FContador.java).
+
 
